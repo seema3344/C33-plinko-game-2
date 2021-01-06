@@ -1,1 +1,2 @@
-# C33-plinko-game-2
+# C33 Plinko Game-2
+the link to see the output of the code
